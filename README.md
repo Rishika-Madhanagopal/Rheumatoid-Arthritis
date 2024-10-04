@@ -5,8 +5,8 @@ This repository contains the dissertation **"Density-Based Clustering in Immune 
 
 ## Contents:
 - `Dissertation_final.pdf`: Full dissertation document.
-- `optics_clustering.py`: Python script implementing the OPTICS clustering algorithm.
-- `reachability_plot.ipynb`: Jupyter Notebook for generating a reachability plot.
+- `clustering.py`: Python script implementing the OPTICS clustering algorithm.
+- `reachability_plot.py`: Jupyter Notebook for generating a reachability plot.
 - `umap_tsne_visualization.py`: Script for UMAP and t-SNE visualizations.
 
 ## Visualizations:
