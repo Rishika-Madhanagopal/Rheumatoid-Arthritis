@@ -27,4 +27,25 @@ python reachability_plot.py
 python tsne.py   
 
 # Create the UMAP scatter plot
-python umap.py 
+python umap.py
+
+## Requirements
+To run the scripts in this repository, you will need the following Python libraries:
+
+- `numpy`
+- `scipy`
+- `matplotlib`
+- `scikit-learn`
+- `umap-learn`
+
+You can install these packages using pip. Run the following command:
+
+```bash
+pip install numpy scipy matplotlib scikit-learn umap-learn
+
+### Explanation:
+- The `## Requirements` header indicates the section for necessary libraries.
+- The list includes all required libraries.
+- The `pip install` command provides a quick way to set up the environment.
+
+
