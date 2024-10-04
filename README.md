@@ -30,22 +30,10 @@ python tsne.py
 python umap.py
 
 ## Requirements
-To run the scripts in this repository, you will need the following Python libraries:
-
-- `numpy`
-- `scipy`
-- `matplotlib`
-- `scikit-learn`
-- `umap-learn`
-
-You can install these packages using pip. Run the following command:
+Make sure to install the necessary Python libraries before running the scripts. You can use the following command to install the required packages:
 
 ```bash
 pip install numpy scipy matplotlib scikit-learn umap-learn
 
-### Explanation:
-- The `## Requirements` header indicates the section for necessary libraries.
-- The list includes all required libraries.
-- The `pip install` command provides a quick way to set up the environment.
 
 
