@@ -29,12 +29,8 @@ python tsne.py
 # Create the UMAP scatter plot
 python umap.py
 
-
-
-## Requirements
+# Requirements
 Make sure to install the necessary Python libraries before running the scripts. You can use the following command to install the required packages:
-
-```bash
 pip install numpy scipy matplotlib scikit-learn umap-learn
 
 
