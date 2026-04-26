@@ -56,6 +56,7 @@ python tsne.py                # View t-SNE landscape
 - **BioFlare Project:** For providing the specialized flow cytometry datasets.
 - **Faculty of Medical Sciences:** Supporting the computational immunology research.
 
-
+### 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
