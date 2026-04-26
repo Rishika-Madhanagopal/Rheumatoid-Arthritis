@@ -2,7 +2,7 @@
 ### *Leveraging Density-Based Clustering (OPTICS) to decode immune landscapes in RA Flare & Remission.*
 
 <div align="center">
-  <img src="assets/reachability_plot_label_3.png" width="100%" style="border-radius: 10px;" alt="Reachability Plot" />
+  <img src="Rishika-Madhanagopal/assets/reachability_plot_label_3.png" width="100%" style="border-radius: 10px;" alt="Reachability Plot" />
 </div>
 
 ## 🔬 OVERVIEW
